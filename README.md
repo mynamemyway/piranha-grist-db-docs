@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/bfc3bf2f-eccc-444b-9d49-281055857b8d" width="500"></td>
-    <td><img src="https://github.com/user-attachments/assets/c3ba22bd-bce8-4302-9805-2d0b215fc148" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/66e48fa4-935a-4684-8720-fbfbcf7c66e9" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/63154951-80ee-46ed-8922-4795af54433d" width="500"></td>
   </tr>
 </table>
 
