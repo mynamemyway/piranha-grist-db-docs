@@ -244,4 +244,5 @@
 
 ---
 
+Полная документация проекта - [text](README_FULL.md)
 Designed and developed by [mynamemyway](https://github.com/mynamemyway)
